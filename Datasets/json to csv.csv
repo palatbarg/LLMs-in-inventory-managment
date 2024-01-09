@@ -1,0 +1,118 @@
+Name,Age,Email,Postcode,Products,Region,order_time
+Hamid,32,djh@gmail.com,B23 321,pen,Iran,2021-07-25T00:03:37
+Sarah,28,sarah28@example.com,A12 345,notebook,UK,2021-01-21T09:13:07
+Mike,45,mike45@example.com,C56 789,water bottle,USA,2021-06-11T13:25:10
+Linda,30,linda30@example.com,D90 123,book,Australia,2021-12-14T18:04:32
+James,25,james25@example.com,E12 456,book,Canada,2021-12-07T22:51:18
+Anna,37,anna37@example.com,F78 910,tea,Germany,2021-07-13T11:08:30
+Robert,22,robert22@example.com,G11 121,book,France,2021-10-11T08:28:38
+Emily,29,emily29@example.com,H31 415,plant pot,Spain,2021-08-26T18:30:00
+David,42,david42@example.com,I62 718,book,Italy,2021-07-18T18:37:31
+Sophia,33,sophia33@example.com,J92 020,yoga mat,Japan,2021-06-01T17:05:54
+Ethan,20,ethan20@example.com,K01 324,calculator,South Korea,2021-07-01T01:48:49
+Olivia,26,olivia26@example.com,L56 789,calculator,Brazil,2021-03-04T13:52:37
+William,38,william38@example.com,M34 876,calculator,Russia,2021-10-25T14:16:00
+Emma,31,emma31@example.com,N65 432,camera,India,2021-04-18T14:38:09
+Noah,29,noah29@example.com,O98 321,tablet,Mexico,2021-06-19T17:02:40
+Isabella,24,isabella24@example.com,P12 345,tablet,Portugal,2021-03-02T18:53:41
+Daniel,35,daniel35@example.com,Q23 654,charger,Egypt,2021-10-28T17:30:01
+Ava,27,ava27@example.com,R54 321,earbuds,India,2021-04-18T13:58:37
+Mike,45,mike45@example.com,C56 789,water bottle,USA,2021-05-24T14:02:31
+Ali,18,ali18@example.com,B23 321,book,Spain,2021-04-10T18:10:38
+Emma,22,emma22@example.com,C45 678,laptop,Germany,2021-07-20T05:22:31
+Noah,25,noah25@example.com,D56 789,camera,Italy,2021-05-27T09:17:30
+Olivia,30,olivia30@example.com,E67 890,headphones,France,2021-11-20T18:29:35
+Liam,35,liam35@example.com,F78 901,smartphone,UK,2021-04-08T10:14:25
+Sophia,40,sophia40@example.com,G89 012,watch,USA,2021-08-13T04:32:01
+Mason,45,mason45@example.com,H90 123,backpack,Canada,2021-08-18T05:23:58
+Isabella,50,isabella50@example.com,I01 234,sunglasses,Australia,2021-10-12T11:12:29
+Jacob,55,jacob55@example.com,J12 345,gloves,Norway,2021-11-30T11:50:25
+Mia,60,mia60@example.com,K23 456,scarf,Sweden,2021-10-21T20:47:09
+Ethan,20,ethan20@example.com,L34 567,notebook,Netherlands,2021-02-14T05:06:00
+Ava,24,ava24@example.com,M45 678,pen,Belgium,2021-12-23T09:29:41
+Daniel,27,daniel27@example.com,N56 789,tablet,Japan,2021-08-14T22:24:35
+Harper,32,harper32@example.com,O67 890,earphones,South Korea,2021-12-18T09:09:08
+Logan,36,logan36@example.com,P78 901,keyboard,China,2021-06-09T05:40:01
+Ella,42,ella42@example.com,Q89 012,mouse,Russia,2021-12-18T13:46:15
+Aiden,47,aiden47@example.com,R90 123,external hard drive,India,2021-01-10T03:22:52
+Charlotte,26,charlotte26@example.com,T12 345,water bottle,Brazil,2021-05-24T08:02:20
+Benjamin,29,benjamin29@example.com,U23 456,sports shoes,Argentina,2021-03-29T01:59:03
+Zoe,34,zoe34@example.com,V34 567,yoga mat,New Zealand,2021-12-15T02:17:18
+Henry,38,henry38@example.com,W45 678,blender,South Africa,2021-03-30T08:59:17
+Amelia,42,amelia42@example.com,X56 789,cookbook,Egypt,2021-05-05T19:04:01
+Oliver,47,oliver47@example.com,Y67 890,wall clock,Turkey,2021-11-05T10:31:22
+Isla,51,isla51@example.com,Z78 901,table lamp,Greece,2021-02-25T05:50:30
+Jack,56,jack56@example.com,AA01 234,guitar,Portugal,2021-06-17T08:02:19
+Lily,60,lily60@example.com,BB12 345,painting canvas,Norway,2021-06-14T13:41:45
+William,64,william64@example.com,CC23 456,bird feeder,Finland,2021-10-10T18:24:11
+Sophie,19,sophie19@example.com,DD34 567,basketball,Philippines,2021-11-06T08:15:07
+Leo,23,leo23@example.com,EE45 678,sunscreen,Thailand,2021-02-16T09:36:01
+Ruby,27,ruby27@example.com,FF56 789,perfume,Malaysia,2021-05-16T18:16:59
+Thomas,31,thomas31@example.com,GG67 890,coffee maker,Vietnam,2021-10-24T03:54:04
+Grace,36,grace36@example.com,HH78 901,e-reader,Singapore,2021-11-16T13:07:45
+Samuel,39,samuel39@example.com,II89 012,wireless headphones,Chile,2021-08-10T10:30:46
+Chloe,43,chloe43@example.com,JJ90 123,digital camera,Colombia,2021-02-18T01:34:33
+James,48,james48@example.com,KK01 234,fitness tracker,Colombia,2021-09-10T19:01:23
+Evelyn,33,evelyn33@example.com,LL12 345,kettle,Denmark,2021-01-07T15:24:26
+Matthew,28,matthew28@example.com,MM23 456,toaster,Sweden,2021-01-18T19:27:28
+Nora,37,nora37@example.com,NN34 567,vacuum cleaner,Ireland,2021-08-23T20:21:32
+Lucas,24,lucas24@example.com,OO45 678,wall art,Belarus,2021-03-29T01:18:39
+Hannah,29,hannah29@example.com,PP56 789,desk lamp,Austria,2021-09-09T13:17:10
+Carter,41,carter41@example.com,QQ67 890,bluetooth speaker,Switzerland,2021-10-25T03:22:51
+Zoe,35,zoe35@example.com,RR78 901,plant,Poland,2021-08-01T13:04:59
+Dylan,22,dylan22@example.com,SS89 012,bookshelf,Czech Republic,2021-06-21T19:47:12
+Leah,26,leah26@example.com,TT90 123,office chair,Hungary,2021-02-20T07:28:02
+Isaac,32,isaac32@example.com,UU01 234,laptop stand,Romania,2021-04-08T12:55:19
+Stella,38,stella38@example.com,VV12 345,yoga pants,Norway,2021-10-24T11:35:52
+Gabriel,27,gabriel27@example.com,WW23 456,running shoes,Finland,2021-04-22T20:04:57
+Lily,31,lily31@example.com,XX34 567,watering can,Portugal,2021-02-12T02:38:01
+Elijah,36,elijah36@example.com,YY45 678,garden tools,Greece,2021-01-09T12:06:00
+Sofia,40,sofia40@example.com,ZZ56 789,kitchen mixer,Croatia,2021-04-26T15:35:19
+Jackson,23,jackson23@example.com,AA67 890,espresso machine,Slovakia,2021-03-22T08:34:32
+Victoria,19,victoria19@example.com,BB78 901,sketch pad,Lithuania,2021-12-05T12:40:59
+Madison,25,madison25@example.com,CC89 012,tea set,Latvia,2021-10-23T05:58:23
+Ethan,21,ethan21@example.com,DD90 123,headphones,Estonia,2021-06-01T17:07:12
+Ava,30,ava30@example.com,EE01 234,scented candles,Slovenia,2021-04-24T20:34:28
+Oliver,28,oliver28@example.com,FF12 345,smartwatch,Iceland,2021-11-16T01:31:08
+Mia,24,mia24@example.com,GG23 456,sneakers,Malta,2021-08-26T17:10:13
+Noah,29,noah29@example.com,HH34 567,blender,Cyprus,2021-04-04T13:37:12
+Harper,31,harper31@example.com,II45 678,cookware,Luxembourg,2021-08-02T22:52:47
+Liam,27,liam27@example.com,JJ56 789,backpack,Bulgaria,2021-01-08T19:38:58
+Grace,22,grace22@example.com,KK67 890,board games,Serbia,2021-02-13T03:03:07
+Benjamin,33,benjamin33@example.com,LL78 901,coffee grinder,Croatia,2021-06-17T12:41:27
+Zoe,26,zoe26@example.com,MM89 012,fitness tracker,Georgia,2021-03-06T13:37:14
+Carter,34,carter34@example.com,NN90 123,digital camera,Armenia,2021-07-13T00:11:10
+Emily,19,emily19@example.com,OO01 234,travel guide,Macedonia,2021-06-11T17:04:08
+Gabriel,32,gabriel32@example.com,PP12 345,laptop bag,Albania,2021-08-11T07:33:33
+Leah,23,leah23@example.com,QQ23 456,yoga mat,Kosovo,2021-02-02T20:17:16
+Samuel,30,samuel30@example.com,RR34 567,briefcase,Montenegro,2021-05-09T11:57:12
+Chloe,35,chloe35@example.com,SS45 678,wireless mouse,Bosnia and Herzegovina,2021-03-26T09:02:30
+Luna,28,luna28@example.com,TT56 789,wireless earbuds,Azerbaijan,2021-08-07T21:10:47
+Lucas,31,lucas31@example.com,UU67 890,tablet,Kazakhstan,2021-10-02T22:34:17
+Scarlett,24,scarlett24@example.com,VV78 901,fitness band,Uzbekistan,2021-08-17T17:54:13
+Mason,27,mason27@example.com,WW89 012,electric kettle,Turkmenistan,2021-07-03T00:20:25
+Sofia,32,sofia32@example.com,XX90 123,kitchen scale,Tajikistan,2021-05-24T19:51:50
+Evelyn,35,evelyn35@example.com,YY01 234,smart home speaker,Kyrgyzstan,2021-01-16T02:35:07
+Logan,29,logan29@example.com,ZZ12 345,gaming mouse,Mongolia,2021-12-21T19:05:24
+Amelia,23,amelia23@example.com,AA23 456,beauty products,North Korea,2021-06-11T18:27:11
+Oliver,36,oliver36@example.com,BB34 567,bluetooth keyboard,South Korea,2021-08-27T11:03:45
+Isabella,26,isabella26@example.com,CC45 678,novel,Taiwan,2021-05-03T06:09:21
+Mia,30,mia30@example.com,DD56 789,cookware set,Singapore,2021-12-03T22:28:30
+Elijah,34,elijah34@example.com,EE67 890,running shoes,Philippines,2021-04-29T19:42:58
+Charlotte,22,charlotte22@example.com,FF78 901,handbag,Malaysia,2021-04-23T06:25:15
+James,37,james37@example.com,GG89 012,graphic novel,Vietnam,2021-01-14T17:48:23
+Avery,25,avery25@example.com,HH90 123,sports watch,Indonesia,2021-11-01T18:58:07
+Ethan,39,ethan39@example.com,II01 234,hiking backpack,Thailand,2021-04-15T12:49:37
+Abigail,28,abigail28@example.com,JJ12 345,sunglasses,Laos,2021-04-05T22:25:35
+Alexander,33,alexander33@example.com,KK23 456,external hard drive,Cambodia,2021-09-16T19:08:50
+Emily,21,emily21@example.com,LL34 567,water filter,Bangladesh,2021-08-06T03:16:07
+Michael,38,michael38@example.com,MM45 678,travel pillow,Sri Lanka,2021-01-21T00:26:49
+Victoria,24,victoria24@example.com,NN56 789,novelty mug,Nepal,2021-06-17T08:33:23
+Daniel,31,daniel31@example.com,OO67 890,wireless charger,Bhutan,2021-04-30T18:30:10
+Grace,27,grace27@example.com,PP78 901,puzzle game,Maldives,2021-11-22T07:32:12
+Jackson,20,jackson20@example.com,QQ89 012,board game,Myanmar,2021-12-30T09:35:10
+Sophia,36,sophia36@example.com,RR90 123,yoga pants,Afghanistan,2021-10-10T19:01:54
+Benjamin,29,benjamin29@example.com,SS01 234,cycling gloves,Pakistan,2021-05-25T00:17:13
+Zoe,23,zoe23@example.com,TT12 345,beach towel,Saudi Arabia,2021-10-25T17:42:48
+Carter,35,carter35@example.com,UU23 456,travel guidebook,Iran,2021-02-13T17:45:21
+Leah,26,leah26@example.com,VV34 567,sunscreen,Iraq,2021-11-23T08:34:18
